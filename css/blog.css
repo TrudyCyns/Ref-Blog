@@ -19,3 +19,7 @@ a {
 .carousel-inner img {
     height: 400px;
 }
+.list-group-flush {
+    border-radius: 10px;
+    margin: 10px;
+}
